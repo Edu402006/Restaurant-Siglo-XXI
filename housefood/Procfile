@@ -1,0 +1,1 @@
+web: gunicorn housefood.wsgi --log-file -
